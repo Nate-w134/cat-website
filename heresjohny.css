@@ -174,5 +174,41 @@ span:hover:after {
  border-radius: 16px;
 }
 
+.container{
+  border-top: grey 2px solid;
+  border-bottom: grey 2px solid;
+  margin: 2%;
+}
+
+/*footer*/
+
+.company-name{
+  display: flex;
+  justify-content: center;
+  
+  color: #F4FFF8;
+  margin: 5%;
+  border-top: 1px solid white;
+  padding-top: 5px;
+  
+}
+
+.about-link a{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+  color: grey;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.about-link :hover{
+  color: white;
+  transition: 1s;
+  border-bottom: white 2px solid;
+  margin-left :47% ;
+  margin-right: 47% ;
+}
+
 
 

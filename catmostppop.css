@@ -106,6 +106,12 @@ span:hover:after {
 
 }
 
+.container{
+    border-top: grey 2px solid;
+    border-bottom: grey 2px solid;
+    margin: 2%;
+}
+
 
 .left-side {
     display: flex;
@@ -259,6 +265,8 @@ img:hover{
 
 
 /*modal*/
+
+
 
 
 
